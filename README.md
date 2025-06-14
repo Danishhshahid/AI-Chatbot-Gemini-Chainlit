@@ -2,6 +2,13 @@
 
 A powerful AI assistant built using Google's Gemini 2.5 Flash API, created by Danish Abbasi.
 
+## ⚠️ Security Notice
+
+**IMPORTANT**: Never commit your `.env` file or expose your API keys. If you accidentally commit sensitive information:
+1. Immediately revoke and regenerate your API keys
+2. Remove the sensitive information from your Git history
+3. Update your `.gitignore` file to prevent future commits of sensitive data
+
 ## 🚀 Features
 
 - Powered by Google's Gemini 2.5 Flash API
