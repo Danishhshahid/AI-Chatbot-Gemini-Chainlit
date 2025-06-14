@@ -42,3 +42,5 @@ env/
 # Local development
 .DS_Store
 Thumbs.db
+
+GEMINI_API_KEY=your_new_api_key_here
